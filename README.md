@@ -1,50 +1,57 @@
 
 
-
-# 🎉 Welcome to GuhanGK's GitHub 🎉
+# Greetings 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/K6Q7ZCdLy8pCE/giphy.gif">
+  <img src="https://media.giphy.com/media/3oriNUExn6GgEjyYbW/giphy.gif" alt="GuhanGK greeting" />
 </p>
 
-Hello everyone! My name is Guhan and I'm a software engineer. I'm passionate about coding and learning new technologies. I'm also interested in web development, open source projects, and collaboration.
+# Introduction
 
-## 📊 Skills & Technologies
+Hi, I'm GuhanGK. I'm a software developer who loves to learn and explore different technologies. I'm here to share my knowledge and help out in the Open Source community.
 
-- Java
-- JavaScript
+# Skills and Technologies
+
+I have experience in the following technologies:
+- HTML
+- CSS
+- .Net Core
 - React
-- Node.js
-- HTML & CSS
-- GraphQL
+- Azure
+- Kubernetes
+- Docker
 - MongoDB
-- RESTful APIs
-- AWS
 
-## 📈 GitHub Stats
+# GitHub Stats and Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guhankgk&count_private=true&theme=tokyonight&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=guhangk&show_icons=true" alt="GuhanGK GitHub stats" />
 </p>
 
-- Pull request count: 0
-- Total contributions: 3
-- GitHub Streak: 1 day
-- Trophies:
-  - Beginner
-  - Python
+# Pull request count: 0
 
-## Fun Facts
+I'm new to the Open Source community and am looking to contribute in the near future.
 
-- I'm a big fan of open source projects and collaboration!
-- I love to travel and explore new places.
-- I'm an avid reader and I love to learn new things.
-- I'm a huge fan of learning new technologies and coding languages.
+# Total contributions: 3
 
-## 🤝 Get in Touch
+I'm proud of my contribution to Open Source and look forward to making more in the future.
 
-Feel free to reach out and connect with me!
+# GitHub Streak and Trophies
 
-- Twitter: [@guhankgk](https://twitter.com/guhankgk)
-- LinkedIn: [GuhanGK](https://www.linkedin.com/in/guhankgk/)
-- Email: guhankgk@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhangk&layout=compact" alt="GuhanGK GitHub streak and trophies" />
+</p>
+
+# Fun facts about the user
+
+- I'm a big fan of cats 🐱
+- I love playing video games 🎮
+- I'm a huge fan of the Marvel Cinematic Universe 🚀
+
+# Contact information
+
+Feel free to reach out to me on any of the following platforms:
+
+- Email: guhangk@example.com
+- Twitter: [@GuhanGK](https://twitter.com/GuhanGK)
+- LinkedIn: [GuhanGK](https://www.linkedin.com/in/guhangk/)
